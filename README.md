@@ -1,4 +1,4 @@
-# keycloak custom rest endpoint
+# keycloak custom validation endpoint
 
 [![N|Solid](https://www.loginradius.com/authenticate/assets/img/providers/keycloak.png)](https://nodesource.com/products/nsolid)
 
